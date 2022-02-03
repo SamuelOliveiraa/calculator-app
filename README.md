@@ -1,6 +1,6 @@
  # Frontend Mentor -  Calculator App ([Click Here](https://calculator-app-samueloliveiraa.vercel.app/))
 
-![Design preview for  Calculator App ](./images/desktop-step-1-bonus.jpg)
+![Design preview for  Calculator App ](/src/Images/desktop-preview.jpg)
 
 ## WELCOME! 👋
 

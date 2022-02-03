@@ -8,9 +8,9 @@ This is a challenge proposed by the website **[Frontend Mentor](https://www.fron
 
 ## The Challenge 🎯
 
-This challenge is to reproduce this **Countries API** as close as possible to the original design.
+This challenge is to reproduce this **Calculator App** as close as possible to the original design.
 
-In this challenge I used my studies in React Js to make the application consume the [Rest Countries API](https://restcountries.com/), in this application you can search for any country in the world, filter countries by continent, change the theme to dark and get more detailed information about each country.
+In this challenge I used my studies in React Js, Typescript and Styled-components to create this calculator, it can be used to do complex or simple calculations and you can also change the theme with a simple button if you get tired of the other colors. Soon I will update it and bring new functionality
 
 ## Technologies Used 🧩
 
